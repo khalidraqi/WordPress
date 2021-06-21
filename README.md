@@ -7,3 +7,5 @@
 4) Modification logo ...
 
 5) ajouter produit
+
+6) Créer plugin WordPress
