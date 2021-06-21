@@ -1,9 +1,12 @@
 <?php 
 /**
  * Plugin Name:       Form
+ * Plugin URI: https://github.com/khalidraqi/WordPress
  * Description:       formulaire de contact.
- * Author:           khalid
+ * Author:           khalid Version 1
  */
+
+
 
 
           add_shortcode( 'cantact',  function(){
