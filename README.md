@@ -8,4 +8,4 @@
 
 5) ajouter produit
 
-6) Créer plugin WordPress
+6) Créer plugin WordPress : PHPMailer ...
